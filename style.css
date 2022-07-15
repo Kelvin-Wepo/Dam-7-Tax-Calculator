@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     background-color: white;
+    background-color:white;
 }
 .period{
     margin-right: 107px;
@@ -11,17 +12,23 @@
 }
 .form{
     margin-top: 70px;
-    background-color: #299c17;
+
+    background-color: #299c17
+
 }
 .ben, .sal{
 height: 50px;
 width: 150px;
+
 }
 #year, #no, #nonhif{
     margin-left: 40px;
+    
+    
 }
 .amnt{
     margin-right: 98px;
+    
 }
 #oldrate{
     margin-left: 200px;
@@ -36,12 +43,15 @@ width: 150px;
     margin-right: 95px;
 }
 #btn{
-background-color: #299c17;
+background-color: blue;
 border: none;
 color: white;
 width: 400px;
 height: 50px;
+border-radius: 30%;
 }
 .table{
     margin-top: 70px;
+    
+    
 }
